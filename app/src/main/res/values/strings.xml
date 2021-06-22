@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AD_20181771prj</string>
+    <string name="title_activity_gather">GatherActivity</string>
+    <string name="text">내가 작성한 리뷰</string>
+</resources>
